@@ -41,11 +41,11 @@ Pour utiliser que la méthode de prédiction, suivre les étapes suivants :
 
 Si vous n'ête pas conserné par les personnes qui ont eu l'identifiant partager, télecherger les models + tokenizer manuellement et importer sur colab.
 
-  - CNN : 
-  - CNN with dropout : 
-  - CNN Multiple Convolutional Blocks : 
-  - Convolutional Neural Network with Regularization : 
-  - EfficientNet : 
+  - CNN : https://mega.nz/file/EYNHUZ7A#qZvYARtKcb05LJhsQW1bfoDcK0oJhUbgU_NsVFG3RUQ
+  - CNN with dropout : https://mega.nz/file/EYNHUZ7A#qZvYARtKcb05LJhsQW1bfoDcK0oJhUbgU_NsVFG3RUQ
+  - CNN Multiple Convolutional Blocks :  https://mega.nz/file/EYNHUZ7A#qZvYARtKcb05LJhsQW1bfoDcK0oJhUbgU_NsVFG3RUQ
+  - CNN with Regularization : https://mega.nz/file/8VtjXSyA#c7WOoBiuK0ml_TJhCX95aLvn--anlnS2NNpPyKxzDig
+  - EfficientNet : https://mega.nz/file/0FkglCjb#l_MXYl2iBJR92s-NWIooi5o9r5va-4ioCrjC5Nvumt8
 
 ### Les techniques
 - Data augmentation
